@@ -1,4 +1,4 @@
-FROM registry.oskk.1solution.ru/docker-images/mono-docker:latest
+FROM demoncat/mono:latest
 ARG VERSION
 ARG BUILD
 
